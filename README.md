@@ -48,7 +48,7 @@ X is a character of an unknown origin transformed into a virtual being. All frie
 
 To explore the projects and enhance your SOLIDWORKS skills:
 
-1. Clone the repository: `git clone [repository link]`
+1. Clone the repository: `git clone [https://github.com/Oelkreamy/SOLIDWORKS-Associate-Certification-Journey/blob/main/README.md]`
 2. Open SOLIDWORKS to view and interact with the project files.
 
 ## Feedback and Contributions
