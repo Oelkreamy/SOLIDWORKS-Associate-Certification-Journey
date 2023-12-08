@@ -27,6 +27,12 @@ Welcome to my SOLIDWORKS Associate Certification Journey repository! 🚀
 
 - **Real Test Parts:**
   - Access the parts designed during my actual CSWA test.
+ 
+## Project X - Unveil the Unknown
+
+**Project X:**
+Project X consists of nine parts, each telling a unique story. 
+X is a character of an unknown origin transformed into a virtual being. All friends, family, and tribe are missing. X wants to find them but can do nothing with a virtual body. X needs to be turned back into reality and is looking for new allies to deal with this unknown situation. X’s story is up for you to decide. So, what will it be?
 
 ## Certification
 
