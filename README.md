@@ -28,6 +28,11 @@ Welcome to my SOLIDWORKS Associate Certification Journey repository! 🚀
 - **Real Test Parts:**
   - Access the parts designed during my actual CSWA test.
  
+## Additional Practice - YouTube Tutorial Series
+
+**Additional Practice Section:**
+I've included an extra practice section where I followed this YouTube tutorial series: [SOLIDWORKS Tutorial Series](https://www.youtube.com/watch?v=rIBpZ0DeO8Y&list=PLsAtyy3nOx4_uHiP7tiBm5-M3hFjT5V6X&pp=iAQB). This series has provided valuable insights, allowing me to further hone my SOLIDWORKS skills.
+ 
 ## Project X - Unveil the Unknown
 
 **Project X:**
