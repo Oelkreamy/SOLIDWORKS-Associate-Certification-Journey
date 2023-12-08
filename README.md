@@ -31,7 +31,7 @@ Welcome to my SOLIDWORKS Associate Certification Journey repository! 🚀
 ## Certification
 
 - **CSWA Certificate:**
-  - ![CSWA Certificate](Link to Your Certificate Image)
+  - ![SOLIDWORKS Logo](Logo.png)
 
 ## Getting Started
 
