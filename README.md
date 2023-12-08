@@ -42,7 +42,7 @@ X is a character of an unknown origin transformed into a virtual being. All frie
 ## Certification
 
 - **CSWA Certificate:**
-  - ![SOLIDWORKS Logo](Logo.png)
+  - ![SOLIDWORKS Logo](Certificate_C-BJSD4U3MYP.pdf)
 
 ## Getting Started
 
